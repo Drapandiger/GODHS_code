@@ -1,2 +1,3 @@
-# GODHS_code
- 
+# Language-Exclusive Mobile Manipulation for Efficient Object Search in Indoor Environments 
+
+Coming soon...
