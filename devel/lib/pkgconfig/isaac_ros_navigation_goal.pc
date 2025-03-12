@@ -1,0 +1,8 @@
+prefix=/home/liding/ws_thesis_lzq/devel
+
+Name: isaac_ros_navigation_goal
+Description: Description of isaac_ros_navigation_goal
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

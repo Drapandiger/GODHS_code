@@ -1,0 +1,565 @@
+{
+    "magazine": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/magazine_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/magazine_area.npy"
+    },
+    "book": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/book_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/book_area.npy"
+    },
+    "sofa table": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sofa table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sofa table_area.npy"
+    },
+    "floor": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/floor_area.npy"
+    },
+    "window": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/window_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/window_area.npy"
+    },
+    "billiard table": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard table_area.npy"
+    },
+    "table frame": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/table frame_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/table frame_area.npy"
+    },
+    "shelf": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shelf_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shelf_area.npy"
+    },
+    "plant": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/plant_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/plant_area.npy"
+    },
+    "brass bowl": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/brass bowl_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/brass bowl_area.npy"
+    },
+    "billiard stick": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard stick_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard stick_area.npy"
+    },
+    "billiard chalk": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard chalk_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard chalk_area.npy"
+    },
+    "billiard balls": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard balls_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/billiard balls_area.npy"
+    },
+    "kiwi": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/kiwi_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/kiwi_area.npy"
+    },
+    "abstract elephant": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/abstract elephant_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/abstract elephant_area.npy"
+    },
+    "door": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/door_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/door_area.npy"
+    },
+    "sketch book": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sketch book_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sketch book_area.npy"
+    },
+    "eraser": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/eraser_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/eraser_area.npy"
+    },
+    "mechanical pencil": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/mechanical pencil_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/mechanical pencil_area.npy"
+    },
+    "wall": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/wall_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/wall_area.npy"
+    },
+    "newtons cradle": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/newtons cradle_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/newtons cradle_area.npy"
+    },
+    "armento rider": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/armento rider_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/armento rider_area.npy"
+    },
+    "decorative bowl": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/decorative bowl_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/decorative bowl_area.npy"
+    },
+    "rug": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/rug_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/rug_area.npy"
+    },
+    "buddha": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/buddha_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/buddha_area.npy"
+    },
+    "sofa": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sofa_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/sofa_area.npy"
+    },
+    "table lamp": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/table lamp_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/table lamp_area.npy"
+    },
+    "lamp table": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/lamp table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/lamp table_area.npy"
+    },
+    "pillow": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/pillow_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/pillow_area.npy"
+    },
+    "chair": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/chair_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/chair_area.npy"
+    },
+    "kitchen table": {
+        "scene_name": "flat",
+        "room_name": "Kitchen",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/kitchen table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/kitchen table_area.npy"
+    },
+    "banquette": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/banquette_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/banquette_area.npy"
+    },
+    "fridge": {
+        "scene_name": "flat",
+        "room_name": "Kitchen",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/fridge_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/fridge_area.npy"
+    },
+    "upper box": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/upper box_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/upper box_area.npy"
+    },
+    "kitchen box": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/kitchen box_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/kitchen box_area.npy"
+    },
+    "coffee table": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/coffee table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/coffee table_area.npy"
+    },
+    "lemon": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/lemon_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/lemon_area.npy"
+    },
+    "bookshelf": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/bookshelf_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/bookshelf_area.npy"
+    },
+    "study table": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/study table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/study table_area.npy"
+    },
+    "picture": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/picture_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/picture_area.npy"
+    },
+    "chess": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/chess_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/chess_area.npy"
+    },
+    "shield tv": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shield tv_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shield tv_area.npy"
+    },
+    "office chair": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/office chair_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/office chair_area.npy"
+    },
+    "water cooler": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/water cooler_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/water cooler_area.npy"
+    },
+    "ctd": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/ctd_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/ctd_area.npy"
+    },
+    "obelisk": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/obelisk_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/obelisk_area.npy"
+    },
+    "closet": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/closet_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/closet_area.npy"
+    },
+    "loveseat": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/loveseat_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/loveseat_area.npy"
+    },
+    "tv shelf": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/tv shelf_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/tv shelf_area.npy"
+    },
+    "glassware": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/glassware_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/glassware_area.npy"
+    },
+    "tv": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/tv_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/tv_area.npy"
+    },
+    "shield controller": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shield controller_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/shield controller_area.npy"
+    },
+    "pitcher": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/pitcher_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/pitcher_area.npy"
+    },
+    "japan vase": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/japan vase_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/japan vase_area.npy"
+    },
+    "logo": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/logo_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/logo_area.npy"
+    },
+    "magazin": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/magazin_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/magazin_area.npy"
+    },
+    "floor shelf": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/floor shelf_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/floor shelf_area.npy"
+    },
+    "corner shelf": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/corner shelf_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/corner shelf_area.npy"
+    },
+    "cabinet": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/cabinet_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/cabinet_area.npy"
+    },
+    "dressing table": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/dressing table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/dressing table_area.npy"
+    },
+    "bookend": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bookend_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bookend_area.npy"
+    },
+    "bed": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed_area.npy"
+    },
+    "plant succulent": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/plant succulent_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/plant succulent_area.npy"
+    },
+    "rubix cube": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/rubix cube_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/rubix cube_area.npy"
+    },
+    "sink": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/sink_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/sink_area.npy"
+    },
+    "container": {
+        "scene_name": "flat",
+        "room_name": "Kitchen",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/container_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/container_area.npy"
+    },
+    "microwave": {
+        "scene_name": "flat",
+        "room_name": "Kitchen",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/microwave_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/microwave_area.npy"
+    },
+    "oven": {
+        "scene_name": "flat",
+        "room_name": "Kitchen",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/oven_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen/oven_area.npy"
+    },
+    "bowl": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/bowl_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/bowl_area.npy"
+    },
+    "clock": {
+        "scene_name": "flat",
+        "room_name": "Livingroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/clock_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom/clock_area.npy"
+    },
+    "bathtub table": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bathtub table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bathtub table_area.npy"
+    },
+    "mirror": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/mirror_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/mirror_area.npy"
+    },
+    "pote": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/pote_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/pote_area.npy"
+    },
+    "kitchen wall": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/kitchen wall_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/kitchen wall_area.npy"
+    },
+    "holder": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/holder_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/holder_area.npy"
+    },
+    "porta sabonete": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/porta sabonete_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/porta sabonete_area.npy"
+    },
+    "bottle": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bottle_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bottle_area.npy"
+    },
+    "mouse": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/mouse_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/mouse_area.npy"
+    },
+    "ring binder": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/ring binder_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/ring binder_area.npy"
+    },
+    "white board": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/white board_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/white board_area.npy"
+    },
+    "monitor": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/monitor_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/monitor_area.npy"
+    },
+    "keyboard": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/keyboard_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/keyboard_area.npy"
+    },
+    "coffee": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/coffee_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/coffee_area.npy"
+    },
+    "donut box": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/donut box_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/donut box_area.npy"
+    },
+    "lamp": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/lamp_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/lamp_area.npy"
+    },
+    "magnit": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/magnit_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/magnit_area.npy"
+    },
+    "red marker": {
+        "scene_name": "flat",
+        "room_name": "Studyroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/red marker_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom/red marker_area.npy"
+    },
+    "wooden bird": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/wooden bird_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/wooden bird_area.npy"
+    },
+    "bed lamp": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed lamp_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed lamp_area.npy"
+    },
+    "handle": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/handle_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/handle_area.npy"
+    },
+    "bed table": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed table_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/bed table_area.npy"
+    },
+    "metal link": {
+        "scene_name": "flat",
+        "room_name": "Bedroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/metal link_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom/metal link_area.npy"
+    },
+    "towel": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/towel_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/towel_area.npy"
+    },
+    "bathtub": {
+        "scene_name": "flat",
+        "room_name": "Bathroom",
+        "carrier_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bathtub_point_cloud.npy",
+        "carrier_areas_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom/bathtub_area.npy"
+    }
+}

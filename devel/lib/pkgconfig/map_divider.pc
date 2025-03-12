@@ -1,0 +1,8 @@
+prefix=/home/liding/ws_thesis_lzq/devel
+
+Name: map_divider
+Description: Description of map_divider
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

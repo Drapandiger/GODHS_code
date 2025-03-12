@@ -1,0 +1,2 @@
+darko_moveit_config:explore:find_target:isaac_moveit:isaac_ros_navigation_goal:map_divider:panda_moveit_config:rbkairos_nav:robot_description:robot_navigation:rrt_exploration:summit_xl_navigation:summitpanda_nav
+-DCATKIN_DEVEL_PREFIX=/home/liding/ws_thesis_lzq/devel -DCMAKE_INSTALL_PREFIX=/home/liding/ws_thesis_lzq/install -G Unix Makefiles

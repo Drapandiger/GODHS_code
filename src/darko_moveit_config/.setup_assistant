@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robot_description
+    relative_path: urdf/rbkairos.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/rbkairos.srdf
+  CONFIG:
+    author_name: zeqi
+    author_email: zeqi.li@tum.de
+    generated_timestamp: 1724860037

@@ -1,0 +1,65 @@
+{
+    "Corridor": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Corridor_footprint_area_points.npy"
+    },
+    "Livingroom": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Livingroom_footprint_area_points.npy"
+    },
+    "Kitchen": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Kitchen_footprint_area_points.npy"
+    },
+    "Bedroom": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bedroom_footprint_area_points.npy"
+    },
+    "Studyroom": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Studyroom_footprint_area_points.npy"
+    },
+    "Bathroom": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Bathroom_footprint_area_points.npy"
+    },
+    "Restroom": {
+        "scene_name": "flat",
+        "original_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_original.png",
+        "shrinked_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_shrink.png",
+        "eroded_image_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_eroded.png",
+        "free_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_free_area_points.npy",
+        "occupancy_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_occupancy_area_points.npy",
+        "footprint_points_path": "/home/liding/ws_thesis_lzq/src/find_target/scripts/knowledge_base/flat/Restroom_footprint_area_points.npy"
+    }
+}

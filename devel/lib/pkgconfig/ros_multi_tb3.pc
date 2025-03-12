@@ -1,0 +1,8 @@
+prefix=/home/liding/ws_thesis_lzq/devel
+
+Name: ros_multi_tb3
+Description: Description of ros_multi_tb3
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

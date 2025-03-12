@@ -1,0 +1,8 @@
+scan_filter_chain:
+
+  # 第二个角度过滤器，滤除45度到90度的激光数据
+  - name: angular_filter
+    type: laser_filters/LaserScanAngularBoundsFilter
+    params:
+      lower_angle: 0.0    # 0度
+      upper_angle: 0.3    # 45度

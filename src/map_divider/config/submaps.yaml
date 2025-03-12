@@ -1,0 +1,212 @@
+map:
+  image: flat_occupancy_map3.png
+  resolution: 0.05
+  origin: [-6.075000381469726, -6.074999904632568, 0.0000]
+  negate: 0
+  occupied_thresh: 0.65
+  free_thresh: 0.196
+
+rooms:
+  - name: Corridor  # 走廊作为核心连接区域
+    level: high  # 表示走廊是高一级区域
+    corners:
+      - corner_1:
+          x: 6
+          y: -3
+      - corner_2:
+          x: 6
+          y: 0
+      - corner_3:
+          x: 0
+          y: 0
+      - corner_4:
+          x: 0
+          y: -3
+    has_door: false  # 走廊与所有其他区域开放连通
+    connections:
+      - to: Livingroom
+      - to: Kitchen
+      - to: Bedroom
+      - to: Studyroom
+      - to: Bathroom
+      - to: Restroom
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+      position:
+        x: 0
+        y: -1.5
+
+  - name: Livingroom  # 客厅
+    corners:
+      - corner_1:
+          x: 3
+          y: 0
+      - corner_2:
+          x: 3
+          y: 6
+      - corner_3:
+          x: -6
+          y: 6
+      - corner_4:
+          x: -6
+          y: 0
+    has_door: false  # 开放连通
+    connections:
+      - to: Corridor  # 开放连接到走廊
+      - to: Kitchen   # 开放连接到厨房
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: 0.707
+          w: 0.707
+      position:
+        x: -3
+        y: 0
+
+  - name: Kitchen  # 厨房
+    corners:
+      - corner_1:
+          x: 0
+          y: -6
+      - corner_2:
+          x: 0
+          y: 0
+      - corner_3:
+          x: -6
+          y: 0
+      - corner_4:
+          x: -6
+          y: -6
+    has_door: false  # 开放连通
+    connections:
+      - to: Corridor  # 开放连接到走廊
+      - to: Livingroom  # 开放连接到客厅
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: -0.707
+          w: 0.707
+      position:
+        x: -3
+        y: 0
+
+  - name: Bedroom  # 卧室
+    corners:
+      - corner_1:
+          x: 12
+          y: 0
+      - corner_2:
+          x: 12
+          y: 6
+      - corner_3:
+          x: 3
+          y: 6
+      - corner_4:
+          x: 3
+          y: 0
+    has_door: true  # 有门的房间
+    connections:
+      - to: Corridor  # 卧室只和走廊连通
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: 0.707
+          w: 0.707
+      position:
+        x: 4.5
+        y: 0
+
+  - name: Studyroom  # 书房
+    corners:
+      - corner_1:
+          x: 12
+          y: -6
+      - corner_2:
+          x: 12
+          y: 0
+      - corner_3:
+          x: 6
+          y: 0
+      - corner_4:
+          x: 6
+          y: -6
+    has_door: true  # 有门的房间
+    connections:
+      - to: Corridor  # 书房只和走廊连通
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+      position:
+        x: 6
+        y: -1.5
+
+  - name: Bathroom  # 浴室
+    corners:
+      - corner_1:
+          x: 6
+          y: -6
+      - corner_2:
+          x: 6
+          y: -3
+      - corner_3:
+          x: 3
+          y: -3
+      - corner_4:
+          x: 3
+          y: -6
+    has_door: true  # 有门的房间
+    connections:
+      - to: Corridor  # 浴室只和走廊连通
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: -0.707
+          w: 0.707
+      position:
+        x: 4.5
+        y: -3
+
+  - name: Restroom  # 卫生间
+    corners:
+      - corner_1:
+          x: 3
+          y: -6
+      - corner_2:
+          x: 3
+          y: -3
+      - corner_3:
+          x: 0
+          y: -3
+      - corner_4:
+          x: 0
+          y: -6
+    has_door: true  # 有门的房间
+    connections:
+      - to: Corridor  # 卫生间只和走廊连通
+    entrance:
+      direction:
+        quaternion:
+          x: 0
+          y: 0
+          z: -0.707
+          w: 0.707
+      position:
+        x: 1.5
+        y: -3

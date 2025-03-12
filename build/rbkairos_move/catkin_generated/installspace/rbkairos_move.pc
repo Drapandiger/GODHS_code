@@ -1,0 +1,8 @@
+prefix=/home/liding/ws_thesis_lzq/install
+
+Name: rbkairos_move
+Description: Description of rbkairos_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
