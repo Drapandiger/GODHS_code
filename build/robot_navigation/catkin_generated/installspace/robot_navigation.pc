@@ -1,8 +1,0 @@
-prefix=/home/liding/ws_thesis_lzq/install
-
-Name: robot_navigation
-Description: Description of robot_navigation
-Version: 1.2.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

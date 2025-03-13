@@ -1,8 +1,0 @@
-prefix=/home/liding/ws_thesis_lzq/install
-
-Name: isaac_moveit
-Description: Description of isaac_moveit
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

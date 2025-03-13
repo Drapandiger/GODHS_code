@@ -1,8 +1,0 @@
-prefix=/home/liding/ws_thesis_lzq/install
-
-Name: find_target
-Description: Description of find_target
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
