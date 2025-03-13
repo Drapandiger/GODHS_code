@@ -17,6 +17,7 @@
   <strong>Complete Architecture of the GODHS System</strong>
 </div>
 
+<br>
 
 **For detailed methodology**, please explore comprehensive implementation details at our **[GitHub Page](https://drapandiger.github.io/GODHS/)**.
 
