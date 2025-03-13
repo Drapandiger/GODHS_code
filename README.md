@@ -9,6 +9,22 @@
 > Technical University of Munich\
 > Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) 
 
+## Approach
+
+
+## Quick Start
+
+## TODO
+
+- [ ] **Improve Motion Planning Module**
+  - Further optimize the coordinated planning algorithm between the chassis and end-effector.
+- [ ] **Enhance Semantic Parsing**
+  - Leverage multi-modal foundation models and fine-tuned language models.
+- [ ] **Expand Experimental Platforms**
+  - Validate system performance on more real-world robot platforms and simulation environments.
+- [ ] **Community Contributions**
+  - Welcome suggestions for improvements in ROS integration, data generation, and experimental modules.
+
 ## Citation
 
 If you find the code useful, please cite:
@@ -19,4 +35,4 @@ Coming soon...
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
