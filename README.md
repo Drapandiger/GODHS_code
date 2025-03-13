@@ -11,6 +11,13 @@
 
 ## Approach
 
+![GODHS Architecture](https://github.com/Drapandiger/GODHS/raw/main/static/images/fig2.png?raw=true)
+
+```
+<div align="center">
+  <strong>Complete Architecture of the GODHS System</strong>
+</div>
+```
 
 ## Quick Start
 
